@@ -1,0 +1,15 @@
+---
+title: Trapnest
+subtitle: Web Development
+layout: default
+modal-id: 1
+date: 2019-02-18
+img: henrywithu_ss.png
+thumbnail: henrywithu_ss.png
+alt: image-alt
+project-date: 2019
+client: N/A
+category: Web Development
+description: <url>henrywithu.com</url> Main site of blog, including YVProjekt Alpha. No matter you are novice, amateur, or professional, join us and become a L.A.S.T. ---- Life & Art & Science & Technology
+
+---

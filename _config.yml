@@ -1,0 +1,59 @@
+url: https://henrywithu.github.io
+baseurl: 
+
+# Site settings
+title: Henrywithu
+email: henry@henrywithu.com
+description: Feel free, be cool
+
+
+# Team names, titles and social links
+people:
+- name: Sharon
+  pic: 1
+  position: Ideas
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Sylvia
+  pic: 2
+  position: Model
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Yve
+  pic: 3
+  position: Vocal
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/henrywithu
+  - title: github
+    url: http://github.com/henrywithu
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty

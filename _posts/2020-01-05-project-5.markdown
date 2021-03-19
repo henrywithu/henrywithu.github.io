@@ -3,7 +3,7 @@ title: Drifting
 subtitle: Social Networking
 layout: default
 modal-id: 5
-date: 2020-06-04
+date: 2020-01-04
 img: social_ss.png
 thumbnail: social_ss.png
 alt: image-alt

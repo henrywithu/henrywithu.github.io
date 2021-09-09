@@ -1,0 +1,15 @@
+---
+title: Pinry
+subtitle: Tilting Image Board
+layout: default
+modal-id: 9
+date: 2021-01-20
+img: pinry.png
+thumbnail: pinry.png
+alt: image-alt
+project-date: 2021
+client: Community
+category: Tilting Image Board
+description: <url>pinry.henrywithu.com</url> A tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
+
+---

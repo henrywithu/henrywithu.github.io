@@ -1,0 +1,15 @@
+---
+title: Sshwifty
+subtitle: Web SSH
+layout: default
+modal-id: 14
+date: 2021-05-26
+img: ssh.png
+thumbnail: ssh.png
+alt: image-alt
+project-date: 2021
+client: Community
+category: Web SSH
+description: <url>ssh.henrywithu.com</url> SSH and Telnet connector made for the Web.
+
+---

@@ -1,0 +1,15 @@
+---
+title: SnapDrop
+subtitle: Local File Sharing
+layout: default
+modal-id: 16
+date: 2021-06-01
+img: drop.png
+thumbnail: drop.png
+alt: image-alt
+project-date: 2021
+client: Community
+category: Local File Sharing
+description: <url>drop.henrywithu.com</url> Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
+
+---

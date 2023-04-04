@@ -1,0 +1,15 @@
+---
+title: FunkWhale
+subtitle: Local File Sharing
+layout: default
+modal-id: 16
+date: 2022-06-02
+img: funkwhale.png
+thumbnail: funkwhale.png
+alt: image-alt
+project-date: 2022
+client: Community
+category: Music player
+description: <url>funkwhale.henrywithu.com</url> Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
+
+---

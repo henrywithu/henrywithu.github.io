@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2019-02-18
 img: henrywithu_ss.png
-thumbnail: henrywithu_ss.png
+thumbnail: henrywithu_ss.webp
 alt: image-alt
 project-date: 2019
 client: N/A

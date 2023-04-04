@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2020
 client: Community
 category: Radio Station
-description: <url>radio.henrywithu.com</url> Self-hosted, all-in-one web radio management suite.
+description: <url>azuracast.henrywithu.com</url> Self-hosted, all-in-one web radio management suite.
 
 ---

@@ -5,7 +5,7 @@ layout: default
 modal-id: 11
 date: 2021-05-23
 img: chevereto.png
-thumbnail: chevereto.png
+thumbnail: chevereto.webp
 alt: image-alt
 project-date: 2021
 client: Community

@@ -2,7 +2,7 @@
 title: SnapDrop
 subtitle: Local File Sharing
 layout: default
-modal-id: 16
+modal-id: 15
 date: 2021-06-01
 img: drop.png
 thumbnail: drop.png

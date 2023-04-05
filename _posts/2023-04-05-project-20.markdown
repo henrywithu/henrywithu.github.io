@@ -3,7 +3,7 @@ title: Whoogle
 subtitle: Mirror Search Engine
 layout: default
 modal-id: 20
-date: 2021
+date: 2021-01-01
 img: whoogle.png
 thumbnail: whoogle.png
 alt: image-alt

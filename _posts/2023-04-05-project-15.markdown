@@ -3,7 +3,7 @@ title: Meet
 subtitle: Forum and Channel
 layout: default
 modal-id: 15
-date: 2022
+date: 2022-01-01
 img: meet.png
 thumbnail: meet.png
 alt: image-alt

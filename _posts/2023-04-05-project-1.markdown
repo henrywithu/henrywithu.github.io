@@ -3,7 +3,7 @@ title: Trapnest
 subtitle: Web Development
 layout: default
 modal-id: 1
-date: 2018
+date: 2018-01-01
 img: trapnest.png
 thumbnail: trapnest.png
 alt: image-alt

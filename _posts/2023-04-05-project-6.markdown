@@ -3,7 +3,7 @@ title: Sshwifty
 subtitle: Web SSH
 layout: default
 modal-id: 6
-date: 2020
+date: 2020-01-01
 img: ssh.png
 thumbnail: ssh.png
 alt: image-alt

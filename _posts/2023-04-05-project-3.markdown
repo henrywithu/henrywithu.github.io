@@ -3,7 +3,7 @@ title: Mirage
 subtitle: Video Hosting
 layout: default
 modal-id: 3
-date: 2020
+date: 2020-01-01
 img: mirage.png
 thumbnail: mirage.png
 alt: image-alt

@@ -3,7 +3,7 @@ title: PeerTube
 subtitle: Video Hosting
 layout: default
 modal-id: 9
-date: 2021
+date: 2021-01-01
 img: peertube.png
 thumbnail: peertube.png
 alt: image-alt

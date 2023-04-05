@@ -3,7 +3,7 @@ title: Sweet Cliche
 subtitle: Forum
 layout: default
 modal-id: 4
-date: 2019
+date: 2019-01-01
 img: sweetcliche.png
 thumbnail: sweetcliche.png
 alt: image-alt

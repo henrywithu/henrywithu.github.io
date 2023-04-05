@@ -3,7 +3,7 @@ title: Chevereto
 subtitle: Image Hosting
 layout: default
 modal-id: 13
-date: 2021
+date: 2021-01-01
 img: chevereto.png
 thumbnail: chevereto.png
 alt: image-alt

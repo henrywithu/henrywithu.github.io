@@ -3,7 +3,7 @@ title: Azuracast
 subtitle: Radio Station
 layout: default
 modal-id: 10
-date: 2020
+date: 2020-01-01
 img: radio.png
 thumbnail: radio.png
 alt: image-alt

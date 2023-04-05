@@ -3,7 +3,7 @@ title: FunkWhale
 subtitle: Local File Sharing
 layout: default
 modal-id: 21
-date: 2022
+date: 2022-01-01
 img: funkwhale.png
 thumbnail: funkwhale.png
 alt: image-alt

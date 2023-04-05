@@ -3,7 +3,7 @@ title: NaviDrome
 subtitle: Music Server & Streamer
 layout: default
 modal-id: 7
-date: 2021
+date: 2021-01-01
 img: navidrome.png
 thumbnail: navidrome.png
 alt: image-alt

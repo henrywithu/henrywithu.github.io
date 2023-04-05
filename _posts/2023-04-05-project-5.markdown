@@ -3,7 +3,7 @@ title: Mastodon
 subtitle: Social Networking
 layout: default
 modal-id: 5
-date: 2020
+date: 2020-01-01
 img: social.png
 thumbnail: social.png
 alt: image-alt

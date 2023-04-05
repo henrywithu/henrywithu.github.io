@@ -3,7 +3,7 @@ title: Plex
 subtitle: Forum and Channel
 layout: default
 modal-id: 16
-date: 2020
+date: 2020-01-01
 img: plex.png
 thumbnail: plex.png
 alt: image-alt

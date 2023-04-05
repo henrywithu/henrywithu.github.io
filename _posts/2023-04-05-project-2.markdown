@@ -3,7 +3,7 @@ title: NEKO
 subtitle: Forum and Channel
 layout: default
 modal-id: 2
-date: 2019
+date: 2019-01-01
 img: neko.png
 thumbnail: neko.png
 alt: image-alt

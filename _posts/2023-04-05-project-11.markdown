@@ -3,7 +3,7 @@ title: MooGPT
 subtitle: ChatGPT Mirror
 layout: default
 modal-id: 11
-date: 2023
+date: 2023-01-01
 img: moogpt.png
 thumbnail: moogpt.png
 alt: image-alt

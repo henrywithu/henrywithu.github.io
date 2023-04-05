@@ -1,0 +1,15 @@
+---
+title: BookStack
+subtitle: Forum and Channel
+layout: default
+modal-id: 17
+date: 2020
+img: bookstack.png
+thumbnail: bookstack.png
+alt: image-alt
+project-date: 2020
+client: Community
+category: Forum and Channel
+description: <url>bookstack.henrywithu.com</url> Video hosting and streaming.
+
+---

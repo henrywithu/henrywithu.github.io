@@ -1,0 +1,15 @@
+---
+title: Whoogle
+subtitle: Mirror Search Engine
+layout: default
+modal-id: 20
+date: 2021
+img: whoogle.png
+thumbnail: whoogle.png
+alt: image-alt
+project-date: 2021
+client: Community
+category: Mirror Search Engine
+description: <url>s1.henrywithu.com</url> <url>s2.henrywithu.com</url> A self-hosted, ad-free, privacy-respecting metasearch engine.
+
+---

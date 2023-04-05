@@ -1,0 +1,15 @@
+---
+title: Telegram ChatGPT Bot
+subtitle: Chat Bot
+layout: default
+modal-id: 22
+date: 2023
+img: telegrambot.png
+thumbnail: telegrambot.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: chatbot
+description: Telegram chatbot using API of ChatGPT by OpenAI, with additional feature like awesome chatgpt prompt from GitHub
+
+---

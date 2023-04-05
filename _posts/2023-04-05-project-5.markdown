@@ -1,0 +1,15 @@
+---
+title: Mastodon
+subtitle: Social Networking
+layout: default
+modal-id: 5
+date: 2020
+img: social.png
+thumbnail: social.png
+alt: image-alt
+project-date: 2020
+client: Community
+category: Social Networking
+description: <url>social.henrywithu.com</url> Self-hosted social networking services. It has microblogging features similar to the Twitter service.
+
+---

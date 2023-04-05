@@ -1,0 +1,15 @@
+---
+title: Mirage
+subtitle: Video Hosting
+layout: default
+modal-id: 3
+date: 2020
+img: mirage.png
+thumbnail: mirage.png
+alt: image-alt
+project-date: 2020
+client: Community
+category: Video Hosting
+description: <url>video.henrywithu.com</url> PeerTube is a free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent, that uses peer-to-peer technology to reduce load on individual servers when viewing videos.
+
+---

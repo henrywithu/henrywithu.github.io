@@ -1,0 +1,15 @@
+---
+title: Discourse
+subtitle: Forum
+layout: default
+modal-id: 8
+date: 2020
+img: discourse.png
+thumbnail: discourse.png
+alt: image-alt
+project-date: 2020
+client: Community
+category: Forum
+description: <url>discourse.henrywithu.com</url> Discussion platform built for the next decade of the Internet, including mailing list, discussion forum, long-form chat room.
+
+---

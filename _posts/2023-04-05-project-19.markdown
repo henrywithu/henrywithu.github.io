@@ -1,6 +1,6 @@
 ---
 title: Cloud9
-subtitle: Local File Sharing
+subtitle: Online IDE
 layout: default
 modal-id: 19
 date: 2021-01-01
@@ -9,7 +9,7 @@ thumbnail: cloud9.png
 alt: image-alt
 project-date: 2021
 client: Community
-category: Local File Sharing
+category: Online IDE
 description: <url>cloud9.henrywithu.com</url> Online IDE
 
 ---

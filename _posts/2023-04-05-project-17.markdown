@@ -1,6 +1,6 @@
 ---
 title: BookStack
-subtitle: Forum and Channel
+subtitle: Wiki System
 layout: default
 modal-id: 17
 date: 2020-01-01
@@ -9,7 +9,7 @@ thumbnail: bookstack.png
 alt: image-alt
 project-date: 2020
 client: Community
-category: Forum and Channel
+category: Wiki System
 description: <url>bookstack.henrywithu.com</url> Video hosting and streaming.
 
 ---

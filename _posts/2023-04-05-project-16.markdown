@@ -1,6 +1,6 @@
 ---
 title: Plex
-subtitle: Forum and Channel
+subtitle: Video hosting
 layout: default
 modal-id: 16
 date: 2020-01-01
@@ -9,7 +9,7 @@ thumbnail: plex.png
 alt: image-alt
 project-date: 2020
 client: Community
-category: Forum and Channel
+category: Video hosting
 description: <url>plex.henrywithu.com</url> Video hosting and streaming.
 
 ---

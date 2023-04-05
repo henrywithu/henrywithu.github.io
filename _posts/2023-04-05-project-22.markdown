@@ -9,7 +9,7 @@ thumbnail: telegrambot.png
 alt: image-alt
 project-date: 2023
 client: Community
-category: chatbot
+category: Chatbot
 description: Telegram chatbot using API of ChatGPT by OpenAI, with additional feature like awesome chatgpt prompt from GitHub
 
 ---

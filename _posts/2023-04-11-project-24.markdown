@@ -3,7 +3,7 @@ title: Jenkins
 subtitle: CI/CD Pipeline Tool
 layout: default
 modal-id: 24
-date: 2023-04-10
+date: 2023-04-09
 img: jenkins.png
 thumbnail: jenkins.png
 alt: image-alt

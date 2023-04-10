@@ -3,7 +3,7 @@ title: GitLab & GitLab Runner
 subtitle: Repo & Pipeline
 layout: default
 modal-id: 23
-date: 2023-04-09
+date: 2023-04-08
 img: gitlab.png
 thumbnail: gitlab.png
 alt: image-alt

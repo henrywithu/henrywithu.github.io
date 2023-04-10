@@ -1,0 +1,15 @@
+---
+title: Harbor
+subtitle: Registry
+layout: default
+modal-id: 25
+date: 2023-04-11
+img: harbor.png
+thumbnail: harbor.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Registry
+description: https://harbor.henrywithu.com Harbor is an open source registry that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted.
+
+---

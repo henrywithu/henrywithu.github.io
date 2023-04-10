@@ -1,0 +1,15 @@
+---
+title: GitLab & GitLab Runner
+subtitle: Repo & Pipeline
+layout: default
+modal-id: 23
+date: 2023-04-09
+img: gitlab.png
+thumbnail: gitlab.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Repo & Pipeline
+description: https://git.henrywithu.com GitLab is an open source end-to-end software development platform with built-in version control, issue tracking, code review, CI/CD, and more. Self-host GitLab on your own servers, in a container, or on a cloud provider.
+
+---

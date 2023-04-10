@@ -1,0 +1,15 @@
+---
+title: Jenkins
+subtitle: CI/CD Pipeline Tool
+layout: default
+modal-id: 24
+date: 2023-04-10
+img: jenkins.png
+thumbnail: jenkins.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: CI/CD Pipeline Tool
+description: https://jenkins.henrywithu.com Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
+
+---

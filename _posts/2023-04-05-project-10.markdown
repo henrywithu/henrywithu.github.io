@@ -3,11 +3,11 @@ title: Azuracast
 subtitle: Radio Station
 layout: default
 modal-id: 10
-date: 2020-01-01
+date: 2021-01-04
 img: radio.png
 thumbnail: radio.png
 alt: image-alt
-project-date: 2020
+project-date: 2021
 client: Community
 category: Radio Station
 description: <url>azuracast.henrywithu.com</url> Self-hosted, all-in-one web radio management suite.

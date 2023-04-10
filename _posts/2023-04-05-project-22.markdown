@@ -3,7 +3,7 @@ title: Telegram ChatGPT Bot
 subtitle: Chat Bot
 layout: default
 modal-id: 22
-date: 2023-01-01
+date: 2023-01-02
 img: telegrambot.png
 thumbnail: telegrambot.png
 alt: image-alt

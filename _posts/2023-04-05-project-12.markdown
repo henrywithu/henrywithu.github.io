@@ -3,7 +3,7 @@ title: Pinry
 subtitle: Tilting Image Board
 layout: default
 modal-id: 12
-date: 2021-01-01
+date: 2021-01-05
 img: pinry.png
 thumbnail: pinry.png
 alt: image-alt

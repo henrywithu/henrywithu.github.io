@@ -3,11 +3,11 @@ title: Plex
 subtitle: Video hosting
 layout: default
 modal-id: 16
-date: 2020-01-01
+date: 2021-01-09
 img: plex.png
 thumbnail: plex.png
 alt: image-alt
-project-date: 2020
+project-date: 2021
 client: Community
 category: Video hosting
 description: <url>plex.henrywithu.com</url> Video hosting and streaming.

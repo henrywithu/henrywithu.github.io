@@ -3,11 +3,11 @@ title: BookStack
 subtitle: Wiki System
 layout: default
 modal-id: 17
-date: 2020-01-01
+date: 2021-01-10
 img: bookstack.png
 thumbnail: bookstack.png
 alt: image-alt
-project-date: 2020
+project-date: 2021
 client: Community
 category: Wiki System
 description: <url>bookstack.henrywithu.com</url> Video hosting and streaming.

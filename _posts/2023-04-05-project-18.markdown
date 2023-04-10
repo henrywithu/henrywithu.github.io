@@ -3,7 +3,7 @@ title: SnapDrop
 subtitle: Local File Sharing
 layout: default
 modal-id: 18
-date: 2021-01-01
+date: 2021-01-11
 img: snapdrop.png
 thumbnail: snapdrop.png
 alt: image-alt

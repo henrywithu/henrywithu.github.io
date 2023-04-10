@@ -3,11 +3,11 @@ title: Sweet Cliche
 subtitle: Forum
 layout: default
 modal-id: 4
-date: 2019-01-01
+date: 2020-01-02
 img: sweetcliche.png
 thumbnail: sweetcliche.png
 alt: image-alt
-project-date: 2019
+project-date: 2020
 client: Community
 category: Forum
 description: <url>comment.henrywithu.com</url> Discussion platform built for the next decade of the Internet, including mailing list, discussion forum, long-form chat room.

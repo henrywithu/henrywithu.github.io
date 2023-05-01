@@ -5,7 +5,7 @@ layout: default
 modal-id: 27
 date: 2023-04-21
 img: misskey.png
-thumbnail: mnisskey.png
+thumbnail: misskey.png
 alt: image-alt
 project-date: 2023
 client: Community

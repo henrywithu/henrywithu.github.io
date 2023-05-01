@@ -1,0 +1,15 @@
+---
+title: Answer
+subtitle: Q&A
+layout: default
+modal-id: 28
+date: 2023-04-22
+img: answer.png
+thumbnail: answer.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Q&A
+description: https://answer.henrywithu.com An open-source knowledge-based community software.
+
+---

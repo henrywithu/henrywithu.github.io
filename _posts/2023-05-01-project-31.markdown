@@ -1,0 +1,15 @@
+---
+title: JumpServer
+subtitle: Bastion Host
+layout: default
+modal-id: 31
+date: 2023-04-25
+img: jumpserver.png
+thumbnail: jumpserver.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Bastion Host
+description: https://jumpserver.henrywithu.com JumpServer is a system on a network used to access and manage devices in a separate security zone. It’s a hardened and monitored device that spans two dissimilar security zones and provides a controlled means of access between them.
+
+---

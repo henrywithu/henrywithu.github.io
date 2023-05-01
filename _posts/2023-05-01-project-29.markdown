@@ -1,0 +1,15 @@
+---
+title: PhotoPrism
+subtitle: Photo Management
+layout: default
+modal-id: 29
+date: 2023-04-23
+img: photoprism.png
+thumbnail: photoprism.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Photo Management
+description: https://prism.henrywithu.com PhotoPrism is an AI-Powered Photos App for the Decentralized Web.
+
+---

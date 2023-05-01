@@ -1,0 +1,15 @@
+---
+title: Mattermost
+subtitle: Chat Forum
+layout: default
+modal-id: 26
+date: 2023-04-20
+img: mattermost.png
+thumbnail: mattermost.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Registry
+description: https://mattermost.henrywithu.com Mattermost is an open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
+
+---

@@ -1,5 +1,5 @@
 ---
-title: GitLab & GitLab Runner
+title: GitLab & Runner
 subtitle: Repo & Pipeline
 layout: default
 modal-id: 23

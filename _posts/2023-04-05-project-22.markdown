@@ -1,5 +1,5 @@
 ---
-title: Telegram ChatGPT Bot
+title: ChatGPT Bot
 subtitle: Chat Bot
 layout: default
 modal-id: 22

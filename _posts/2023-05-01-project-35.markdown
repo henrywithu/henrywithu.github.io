@@ -1,0 +1,15 @@
+---
+title: CalibreWeb
+subtitle: eBook Reader
+layout: default
+modal-id: 35
+date: 2023-04-29
+img: calibreweb.png
+thumbnail: calibreweb.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: eBook Reader
+description: https://calibreweb.henrywithu.com Calibre-Web is a web app that offers a clean and intuitive interface for browsing, reading, and downloading eBooks using a valid Calibre database.
+
+---

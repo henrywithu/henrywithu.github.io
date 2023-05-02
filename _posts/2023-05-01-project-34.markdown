@@ -1,0 +1,15 @@
+---
+title: SSH Chat
+subtitle: SSH Chat
+layout: default
+modal-id: 34
+date: 2023-04-28
+img: sshchat.png
+thumbnail: sshchat.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: SSH Chat
+description: ssh://sshchat.henrywithu.com Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
+
+---

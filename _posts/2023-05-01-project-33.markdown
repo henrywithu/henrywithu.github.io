@@ -1,0 +1,15 @@
+---
+title: ExcaliDraw
+subtitle: Virtual Whiteboard
+layout: default
+modal-id: 33
+date: 2023-04-27
+img: excalidraw.png
+thumbnail: excalidraw.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Virtual Whiteboard
+description: https://draw.henrywithu.com Virtual whiteboard for sketching hand-drawn like diagrams
+
+---

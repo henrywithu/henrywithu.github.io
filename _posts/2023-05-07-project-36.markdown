@@ -1,0 +1,15 @@
+---
+title: VaultWarden
+subtitle: Password Management
+layout: default
+modal-id: 36
+date: 2023-05-01
+img: vault.png
+thumbnail: vault.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Password Management
+description: https://vault.henrywithu.com Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+
+---

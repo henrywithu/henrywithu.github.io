@@ -1,0 +1,15 @@
+---
+title: Trapnest Backup
+subtitle: Ghost
+layout: default
+modal-id: 37
+date: 2023-05-02
+img: sitebackup.png
+thumbnail: sitebackup.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: Ghost
+description: https://sitebackup.henrywithu.com A backup site for Trapnest main site, with ARM64
+
+---

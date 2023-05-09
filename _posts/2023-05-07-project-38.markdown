@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2023
 client: Community
 category: URL Shortener
-description: https://url.henrywithu.com Free Modern URL Shortener.
+description: https://url.henrywithu.com Free Modern URL Shortener
 
 ---

@@ -1,0 +1,15 @@
+---
+title: Sensei
+subtitle: An open source ChatGPT UI
+layout: default
+modal-id: 39
+date: 2023-10-29
+img: sensei.png
+thumbnail: sensei.png
+alt: image-alt
+project-date: 2023
+client: Community
+category: ChatGPT UI
+description: https://sensei.henrywithu.com An open source ChatGPT UI
+
+---

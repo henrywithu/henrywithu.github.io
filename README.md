@@ -1,30 +1,41 @@
-Agency Jekyll theme
-====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+# Trapnest Jekyll Site
 
-# How to use
+A modern, Apple-style minimalist landing page built with Jekyll, based on the Agency Bootstrap theme.
 
-###Portfolio 
+## Local Development
 
-Portfolio projects are in '/_posts'
+To run this site locally:
 
-Images are in '/img/portfolio'
+1. **Install Ruby and Bundler**  
+   Make sure you have Ruby installed. Then install Bundler:
+   ```sh
+   gem install bundler
+   ```
 
-###About
+2. **Install dependencies**  
+   In your project directory, run:
+   ```sh
+   bundle install
+   ```
 
-Images are in '/img/about/'
+3. **Serve the site locally**  
+   Start the Jekyll server:
+   ```sh
+   bundle exec jekyll serve
+   ```
+   The site will be available at [http://localhost:4000](http://localhost:4000).
 
-###Team
+## Deployment
 
-Team members and info are in '_config.yml'
+You can deploy this site to GitHub Pages or any static hosting provider that supports Jekyll.
 
-Images are in '/img/team/'
+## Content Structure
 
+- Portfolio projects: `_posts/`
+- Portfolio images: `img/portfolio/`
+- About images: `img/about/`
+- Team info: `_config.yml`
+- Team images: `img/team/`
 
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+For more details, see the [Jekyll documentation](https://jekyllrb.com/).
